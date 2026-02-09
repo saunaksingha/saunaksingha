@@ -5,10 +5,7 @@ I am Saunak, and I love building projects and turning ideas into real, working c
 **These days I’m focused on:**
 
 - Javascript
-- React
-- NodeJS
-- MongoDB
-- ExpressJS
+- Mern Stack
 - Flutter
 
 ---
