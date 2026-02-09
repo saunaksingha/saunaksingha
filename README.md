@@ -11,8 +11,10 @@ I am Saunak, and I love building projects and turning ideas into real, working c
 ---
 
 **Some Stuff I built**
-- [Maze Ball - Casual Puzzle](https://play.google.com/store/apps/details?id=com.rumblingraccoonstudio.mazeball) - A relaxing puzzle game where you guide a ball through cozy mazes to find the exit.
-- [Flower Guardian -Tower Defense](https://play.google.com/store/apps/details?id=com.RumblingRaccoonStudio.FlowerGuardian) - A magical tower defense game where enchanted flowers protect the Heart of the Forest from invading monsters.
+
+<img src="https://play-lh.googleusercontent.com/kW7eyaRowuCQrfYbO2fNQAEIvGswBzO0nV75eQlcfwWCLHeeEg6SVp0zcikOhIoMK9fD=w240-h480-rw" width="20" height="20" /> [Maze Ball - Casual Puzzle](https://play.google.com/store/apps/details?id=com.rumblingraccoonstudio.mazeball) - A relaxing puzzle game where you guide a ball through cozy mazes to find the exit.
+
+<img src="https://play-lh.googleusercontent.com/FBzuBdeDIvQ1bKLUWv0qhGgfPVOa-HGqUxT5ElbNtZN7XAg2PXQ27GvxqntDbhZwnXY=s48-rw" width="20" height="20" /> [Flower Guardian -Tower Defense](https://play.google.com/store/apps/details?id=com.RumblingRaccoonStudio.FlowerGuardian) - A magical tower defense game where enchanted flowers protect the Heart of the Forest from invading monsters.
 
 ---
 **Fun Facts:**
