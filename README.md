@@ -1,4 +1,4 @@
-**Hey, I’m Saunak!** <img src="./cat.gif" width="28" alt="Blinking cat">
+**Hey, I’m Saunak!** <sub><img src="./cat.gif" width="22" alt="Blinking cat"></sub>
 > I build apps, games, APIs, and AI tools. More ideas than free weekends.
 
 
